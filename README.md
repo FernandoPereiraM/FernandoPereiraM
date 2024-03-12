@@ -35,7 +35,7 @@ Hello! I'm passionate about software development and a professional in systems e
 
 ## 📫 Contact
 
-- LinkedIn: [Luis Pereira on LinkedIn](https://www.linkedin.com/in/luis-fernando-pereira-miranda-b48a70202/)
+- [Luis Pereira on LinkedIn](https://www.linkedin.com/in/luis-fernando-pereira-miranda-b48a70202/)
 - Email: luispemiranda@gmail.com
 
 ## 🤝 Contributions
