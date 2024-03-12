@@ -1,4 +1,4 @@
-# Luis Pereira - Software Engineer and Accounting Assistant 👨‍💻📊
+# 👨‍💻 Software Engineer and Accounting Assistant 📊
 
 ## About Me ℹ️
 
