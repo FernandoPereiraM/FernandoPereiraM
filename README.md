@@ -17,11 +17,11 @@ Simplifies email-related operations with a Mail API, including user management, 
 - Java / Spring
 - Python / Django
 - SQL
-- Docker
+- Basic Docker
 - Angular
 - PostgreSQL
 - BigQuery
-- AWS
+- Basic AWS
 - Accounting
 - Teamwork
 - Problem-solving
