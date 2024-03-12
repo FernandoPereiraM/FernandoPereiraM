@@ -1,4 +1,4 @@
-# Luis Pereira - Software Engineer and Accounting Professional 👨‍💻📊
+# Luis Pereira - Software Engineer and Accounting Assistant 👨‍💻📊
 
 ## About Me ℹ️
 
@@ -35,5 +35,6 @@ Simplifies email-related operations with a Mail API, including user management, 
 ## 🤝 Contributions
 
 I'm open to collaborations and interesting projects! Feel free to reach out if you're interested in working together or just want to say hello.
+
 
 
