@@ -6,11 +6,14 @@ Hello! I'm Luis Pereira, a passionate software developer with a solid background
 
 ## 🚀 Featured Projects
 
-### [TopTrends](project_toptrends)
+### [TopTrends](https://github.com/FernandoPereiraM/project_toptrends)
 Combines powerful technologies to create a robust and scalable web application. Docker streamlines deployment, while Django and Angular handle backend and frontend responsibilities. PostgreSQL and BigQuery provide efficient data storage and retrieval, contributing to a comprehensive and modern tech stack.
 
-### [EmailPrototype](emailprototype)
+### [EmailPrototype](https://github.com/FernandoPereiraM/emailprototype)
 Simplifies email-related operations with a Mail API, including user management, sending/receiving emails, and organizing emails into folders. Developers can seamlessly integrate these features into their applications, enhancing user experience and productivity.
+
+### [self-Learning](https://github.com/FernandoPereiraM/Self-Learning)
+This is where I document my journey of learning and practicing various technologies, concepts, and skills in software development. Whether it's brushing up on programming languages, exploring new frameworks, or diving into algorithms, you'll find it all here!
 
 ## 💼 Skills
 
@@ -29,7 +32,7 @@ Simplifies email-related operations with a Mail API, including user management, 
 
 ## 📫 Contact
 
-- LinkedIn: [Luis Pereira](linkedin_profile)
+- LinkedIn: [Luis Pereira](https://www.linkedin.com/in/luis-fernando-pereira-miranda-b48a70202/)
 - Email: luispemiranda@gmail.com
 
 ## 🤝 Contributions
