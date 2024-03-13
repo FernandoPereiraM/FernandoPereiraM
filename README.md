@@ -12,7 +12,7 @@ Combines powerful technologies to create a robust and scalable web application. 
 ### [EmailPrototype](https://github.com/FernandoPereiraM/emailprototype)
 Simplifies email-related operations with a Mail API, including user management, sending/receiving emails, and organizing emails into folders. Developers can seamlessly integrate these features into their applications, enhancing user experience and productivity.
 
-### [self-Learning](https://github.com/FernandoPereiraM/Self-Learning)
+### [Self-Learning](https://github.com/FernandoPereiraM/Self-Learning)
 This is where I document my journey of learning and practicing various technologies, concepts, and skills in software development. Whether it's brushing up on programming languages, exploring new frameworks, or diving into algorithms, you'll find it all here!
 
 ## 💼 Skills
