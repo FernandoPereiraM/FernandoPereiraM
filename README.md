@@ -1,48 +1,129 @@
-# 👨‍💻 Software Engineer and Accounting Assistant 📊
 
-## About Me ℹ️
+# 👨‍💻 Software Engineer & QA Analyst | Accounting Assistant 📊
 
-Hello! I'm Luis Pereira, a passionate software developer with a solid background in systems engineering and accounting. I excel in technologies like Java/Spring, Python/Django, SQL, Docker, Angular, and more. My collaborative mindset and problem-solving skills make me an asset in any team. I'm dedicated to staying updated with the latest trends and technologies through continuous self-learning.
+## About Me
+
+I’m **Luis Fernando Pereira Miranda**, a **Systems Engineer and Accounting Assistant** with hands-on experience in **software development, QA (manual & automated testing), and technical support**.
+
+I have worked in **real production environments**, supporting core business systems, analyzing requirements, designing test scenarios, and ensuring software quality through **manual testing and API testing with Postman**. My background in **accounting and financial processes** allows me to understand business logic deeply and translate it into reliable technical solutions.
+
+I stand out for my **analytical mindset**, attention to detail, teamwork, and commitment to **continuous learning and process optimization**.
+
+---
+
+## 💼 Professional Experience
+
+### 🧪 Junior QA Analyst — **Habi**
+
+*08/2024 – 02/2025 | Bogotá, Colombia*
+
+* Performed **manual and automated tests** to ensure software quality and system stability.
+* Designed **test cases and test scenarios** based on functional requirements.
+* Provided **support and incident resolution** for core business systems.
+* Monitored business transactions to detect issues and prevent production errors.
+* Gained in-depth understanding of the company’s business model and workflows.
+
+---
+
+### 💻 Tech Fellow — **VélezReyes+**
+
+*02/2024 – 12/2024 | Remote*
+
+* Technical acceleration program focused on **software development and technical leadership**.
+* Worked with **Python (Django), Docker, Node.js, AWS (RDS), SQL (MySQL, PostgreSQL)**.
+* Strengthened problem-solving skills and best practices for real-world software projects.
+* Connected with industry-leading companies such as **Nubank, Globant, and MercadoLibre**.
+
+---
+
+### 🔬 Research Seedbed — **Seguros Bolívar S.A.**
+
+*10/2021 – 01/2022 | Remote*
+
+* Participated in **Tech Campers**, focused on agile methodologies and software development.
+* Worked with **Angular, Bootstrap, Java (Spring Boot), Node.js, Oracle SQL**.
+* Gained experience in collaborative and professional development environments.
+
+---
 
 ## 🚀 Featured Projects
 
-### [TopTrends](https://github.com/FernandoPereiraM/project_toptrends)
-Combines powerful technologies to create a robust and scalable web application. Docker streamlines deployment, while Django and Angular handle backend and frontend responsibilities. PostgreSQL and BigQuery provide efficient data storage and retrieval, contributing to a comprehensive and modern tech stack.
+### 🔥 [TopTrends](https://github.com/FernandoPereiraM/project_toptrends)
 
-### [SnoopJake Mail](https://github.com/Tech-Fellows-SnoopJake/EmailServer)
-Simplifies email-related operations with a Mail API, including user management, sending/receiving emails, and organizing emails into folders. Developers can seamlessly integrate these features into their applications, enhancing user experience and productivity.
+Fullstack web application using **Django, Angular, Docker, PostgreSQL, and BigQuery**, focused on scalability, clean architecture, and efficient data processing.
 
-## 🚀 Recipe.io
-### [Full Recipe.io](https://github.com/forgionyc/recipe-io)
-## [Front: Recipe.io](https://github.com/FernandoPereiraM/ia-frontp)
-Recipe.io is an innovative digital assistant designed to make your cooking experience easier and more enjoyable.
+---
 
-### [Self-Learning](https://github.com/FernandoPereiraM/Self-Learning)
-This is where I document my journey of learning and practicing various technologies, concepts, and skills in software development. Whether it's brushing up on programming languages, exploring new frameworks, or diving into algorithms, you'll find it all here!
+### 📧 [SnoopJake Mail](https://github.com/Tech-Fellows-SnoopJake/EmailServer)
 
-## 💼 Skills
+A **Mail API** that supports:
 
-- Java / Spring
-- Python / Django
-- SQL
-- Basic Docker
-- Angular
-- PostgreSQL
-- BigQuery
-- Basic AWS
-- Accounting
-- Teamwork
-- Problem-solving
-- Self-learning
+* User management
+* Sending and receiving emails
+* Folder-based email organization
+
+Built to be easily integrated into other applications.
+
+---
+
+### 🍳 Recipe.io
+
+* 🔗 [Full Project](https://github.com/forgionyc/recipe-io)
+* 🎨 [Frontend](https://github.com/FernandoPereiraM/ia-frontp)
+
+An intelligent cooking assistant that improves the user experience through automation and modern UI design.
+
+---
+
+### 📚 [Self-Learning](https://github.com/FernandoPereiraM/Self-Learning)
+
+Repository documenting my **continuous learning** in programming, frameworks, databases, and software engineering best practices.
+
+---
+
+## 🛠️ Skills
+
+### Technical
+
+* Python / Django
+* Java / Spring Boot
+* SQL
+* Angular
+* Docker (Basic)
+* PostgreSQL, MySQL, Oracle
+* AWS RDS (Basic)
+* Postman
+* Excel
+
+### Professional
+
+* Manual & API Testing (QA)
+* Test case design
+* Incident analysis
+* Accounting & financial processes
+* Teamwork & communication
+* Analytical thinking
+* Continuous self-learning
+
+---
+
+## 🌍 Languages
+
+* Spanish: Native
+* English: Competent
+
+---
 
 ## 📫 Contact
 
-- LinkedIn: [Luis Pereira](https://www.linkedin.com/in/luis-fernando-pereira-miranda-b48a70202/)
-- Email: luispemiranda@gmail.com
+* 📧 Email: **[luispemiranda@gmail.com](mailto:luispemiranda@gmail.com)**
+* 💼 LinkedIn: [Luis Pereira](https://www.linkedin.com/in/luis-fernando-pereira-miranda-b48a70202/)
+* 🧑‍💻 GitHub: [FernandoPereiraM](https://github.com/FernandoPereiraM)
 
-## 🤝 Contributions
+---
 
-I'm open to collaborations and interesting projects! Feel free to reach out if you're interested in working together or just want to say hello.
+## 🤝 Open to Opportunities
 
+I’m open to **Junior QA, Software Developer, or Hybrid QA/Dev roles**, especially in environments where I can grow, learn fast, and add value from day one.
 
-
+---
