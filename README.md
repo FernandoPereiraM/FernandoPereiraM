@@ -12,8 +12,9 @@ Combines powerful technologies to create a robust and scalable web application. 
 ### [SnoopJake Mail](https://github.com/Tech-Fellows-SnoopJake/EmailServer)
 Simplifies email-related operations with a Mail API, including user management, sending/receiving emails, and organizing emails into folders. Developers can seamlessly integrate these features into their applications, enhancing user experience and productivity.
 
-### [Front: Recipe.io](https://github.com/FernandoPereiraM/ia-frontp)
-### [Recipe.io](https://github.com/forgionyc/recipe-io)
+## 🚀 Recipe.io
+### [Full Recipe.io](https://github.com/forgionyc/recipe-io)
+## [Front: Recipe.io](https://github.com/FernandoPereiraM/ia-frontp)
 Recipe.io is an innovative digital assistant designed to make your cooking experience easier and more enjoyable.
 
 ### [Self-Learning](https://github.com/FernandoPereiraM/Self-Learning)
