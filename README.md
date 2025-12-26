@@ -11,7 +11,7 @@ I stand out for my **analytical mindset**, attention to detail, teamwork, and co
 
 ---
 
-## 💼 Professional Experience
+## 💼 Last Professional Experience
 
 ### 🧪 Junior QA Analyst — **Habi**
 
@@ -22,27 +22,6 @@ I stand out for my **analytical mindset**, attention to detail, teamwork, and co
 * Provided **support and incident resolution** for core business systems.
 * Monitored business transactions to detect issues and prevent production errors.
 * Gained in-depth understanding of the company’s business model and workflows.
-
----
-
-### 💻 Tech Fellow — **VélezReyes+**
-
-*02/2024 – 12/2024 | Remote*
-
-* Technical acceleration program focused on **software development and technical leadership**.
-* Worked with **Python (Django), Docker, Node.js, AWS (RDS), SQL (MySQL, PostgreSQL)**.
-* Strengthened problem-solving skills and best practices for real-world software projects.
-* Connected with industry-leading companies such as **Nubank, Globant, and MercadoLibre**.
-
----
-
-### 🔬 Research Seedbed — **Seguros Bolívar S.A.**
-
-*10/2021 – 01/2022 | Remote*
-
-* Participated in **Tech Campers**, focused on agile methodologies and software development.
-* Worked with **Angular, Bootstrap, Java (Spring Boot), Node.js, Oracle SQL**.
-* Gained experience in collaborative and professional development environments.
 
 ---
 
